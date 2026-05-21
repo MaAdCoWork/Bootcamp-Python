@@ -1,22 +1,14 @@
 # Python Bootcamp
-
-Hola! mi nombre es [@GonzaloMartin](https://github.com/GonzaloMartin) y creé este Bootcamp de Python orientado a la Automatización de backend y frontend, entre otras cosas. Este bootcamp consta de 10 clases intensivas donde aprenderás los fundamentos de Python con un enfoque práctico y orientado a la automatización de tareas. Este contenido es libre y abierto para todos los que deseen aprender y mejorar sus habilidades en programación.
-
-Aprender Python no solo proporciona una habilidad valiosa en sí misma, sino que también abre la puerta a un amplio abanico de aplicaciones y oportunidades profesionales. Combinando lo simple que es y el poder que tiene, lo convierte en una herramienta esencial en el repertorio de cualquier desarrollador.
+Bootcamp de Python orientado a la Automatización de backend y frontend, entre otras cosas. Este bootcamp consta de clases intensivas donde aprenderás los fundamentos de Python con un enfoque práctico y orientado a la automatización de pruebas.
 
 
 ## Objetivos:
-
-El objetivo principal de este bootcamp es proporcionarte las habilidades necesarias para utilizar Python en la automatización de tareas cotidianas y empresariales. Al finalizar este taller, deberás ser capaz de desarrollar procesos que automaticen tareas repetitivas, manipulen archivos, interactúen con APIs, WebUI y más.
-
-La idea es que cada uno pueda implementar soluciones en Python, poder escribir código y desarrollarlo en equipo, poder versionarlo, interactuar con bases de datos, implementar servicios web, manejar dataframes, etc.
-
-Al finalizar este bootcamp vas a contar con herramientas para desempeñarte como desarrollador en Python más específicamente orientado a la automatización.
+El objetivo principal de este bootcamp es proporcionarte las habilidades necesarias para utilizar Python en la automatización de pruebas funcionales.
+Al finalizar este bootcamp vas a contar con herramientas para desempeñarte como desarrollador en Python más específicamente orientado a la automatización de pruebas funcionales.
 
 
 ## Audiencia:
-
-Personas con o sin experiencia en algún lenguaje de programación que quieran aprender y crear soluciones de código en Python.
+Personas sin experiencia en algún lenguaje de programación que quieran aprender y crear soluciones de código en Python.
 
 
 # Repositorio
@@ -30,12 +22,12 @@ Se recomienda la versión de `python >= 3.10` en adelante y `pip >= 24.0`.
 
 1. **Clona este repositorio:**
     ```bash
-    git clone https://github.com/GonzaloMartin/Python-Bootcamp.git
+    git clone git@github.com:MaAdCoWork/Bootcamp-Python.git
     ```
 
 2. **Navega a la carpeta del Bootcamp:**
     ```bash
-    cd Python-Bootcamp
+    cd Bootcamp-Python
     ```
 
 3. **Creación entorno virtual:**
@@ -78,11 +70,7 @@ Se recomienda la versión de `python >= 3.10` en adelante y `pip >= 24.0`.
 Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo [LICENSE](LICENSE).
 
 
-## Autor
+## Autores
 
-- [@GonzaloMartin](https://github.com/GonzaloMartin).
-- Consultas y/o sugerencias: [montalvo.dev](https://montalvo.dev)
-
----
-
-¡Espero que disfrutes este bootcamp y que te sea de gran ayuda en tu camino para convertirte en expert@ en automatización con Python!
+- [@GonzaloMartin](https://github.com/GonzaloMartin) aka MontalvG, autor original.
+- [@MaAdCoWork](https://github.com/MaAdCoWork), colaborador minoritario y autor de este fork.
